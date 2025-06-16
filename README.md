@@ -46,6 +46,14 @@ This project applies machine learning models to analyze network traffic and dete
    - F1-Score
    - Confusion Matrix
 
+```markdown
+## 💡 Key Takeaways
+
+- Preprocessing steps (encoding + scaling) are essential for ML performance.
+- Handling class imbalance improves recall and precision on minority attacks.
+- Random Forest consistently outperforms simpler classifiers in detection accuracy.
+- NIDS solutions should aim for low false positives to avoid alert fatigue in real-world systems.
+
 ---
 
 ## 🧪 Results
