@@ -60,3 +60,20 @@ This project applies machine learning models to analyze network traffic and dete
 > 📌 These are general observations. Exact metrics can be found in the notebook.
 
 ---
+
+## 🚀 Future Enhancements
+
+- 🧠 Use Deep Learning models like CNN, LSTM, or Autoencoders
+- 🧪 Test on other datasets (e.g., UNSW-NB15, CICIDS2017)
+- 🌐 Real-time packet inspection using Scapy
+- 📊 Build a Streamlit or Flask-based UI for live predictions
+- 🛡️ Integrate into a firewall or SIEM system for proactive security
+
+---
+
+## 🙋‍♀️ About the Author
+
+**Khushbu Rani**  
+B.Tech CSE Student @ VIT  
+Machine Learning Enthusiast  
+GitHub: [@khushbu0810](https://github.com/khushbu0810)  
